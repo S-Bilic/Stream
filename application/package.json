@@ -1,0 +1,19 @@
+{
+  "name": "SensorNodeStream",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[A\u001b[B\u001b[BSensornodes data streamer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "~1.16.0",
+    "debug": "~2.6.0",
+    "dummy-json": "~2.0.0",
+    "express": "~4.14.1",
+    "handlebars": "~4.0.6",
+    "handlebars-helper-datetime": "^0.1.0"
+  },
+  "author": "Stefan B",
+  "license": "ISC"
+}
